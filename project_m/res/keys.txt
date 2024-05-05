@@ -1,0 +1,11 @@
+p_begin
+name: Major
+s: w w h w w w h
+c: M m m M M m d
+p_end
+
+p_begin
+name: Minor
+s: w h w w h w w
+c: m d M m m M M
+p_end
